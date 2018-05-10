@@ -4,7 +4,7 @@
 
     <groupId>com.powermilk</groupId>
     <artifactId>factorial</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <packaging>jar</packaging>
 
     <name>${project.name}</name>
@@ -17,8 +17,8 @@
         <project.description>Application sums digits in calculated factorial</project.description>
         <junit.platform.version>1.1.0-M1</junit.platform.version>
         <junit.jupiter.version>5.1.0-M1</junit.jupiter.version>
-        <logback.version>1.2.3</logback.version>
         <java.version>1.8</java.version>
+        <logback.version>1.2.3</logback.version>
     </properties>
 
     <build>
