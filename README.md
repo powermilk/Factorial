@@ -1,4 +1,4 @@
-# ExchangeRate
+# Factorial
 
 Application sums digits in calculated factorial
 

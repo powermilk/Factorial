@@ -10,7 +10,7 @@ public class Factorial {
         if (number == null) {
             throw new NullPointerException("Something went wrong with calculation!");
         }
-        
+
         return String.valueOf(number)
                 .chars()
                 .map(Character::getNumericValue)
